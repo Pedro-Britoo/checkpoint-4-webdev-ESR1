@@ -1,0 +1,27 @@
+# CONTEXTO GIT - 1ESR/Pedro-Britoo-checkpoint-4-webdev-ESR1
+# Path: /Volumes/externo/FIAP/corretor-avaliacoes/turmas/2026/checkpoint-4/1ESR/Pedro-Britoo-checkpoint-4-webdev-ESR1
+
+## git remote -v
+origin	https://github.com/Pedro-Britoo/checkpoint-4-webdev-ESR1 (fetch)
+origin	https://github.com/Pedro-Britoo/checkpoint-4-webdev-ESR1 (push)
+
+## git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+## git log --oneline -30
+4f7fbdf feat (tive que refazer vou commitar tudo) commit geral
+fefc3e6 feat: cria pagina de detalhes /notes/[id] com useSearchParams e useEffect
+5018a1e feat: implementa exclusao e busca de anotacoes
+27a7e8c feat: implementa pagina principal com criacao e listagem de anotacoes
+df43e45 feat: cria componentes CartaoAnotacao, ListaAnotacoes e BarraBusca
+91ffb74 feat: cria componente FormularioAnotacao para criacao de anotacoes
+4b5a7e0 feat: cria componente Cabecalho e integra ao layout raiz
+1cc8016 participantes
+
+## git shortlog -sn HEAD
+     8	Pedro-Britoo <boilingpedro64@gmail.com>
+
+## contagem de commits HEAD
+8
